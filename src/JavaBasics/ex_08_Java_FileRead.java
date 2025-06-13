@@ -16,6 +16,5 @@ public class ex_08_Java_FileRead {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-
     }
 }
